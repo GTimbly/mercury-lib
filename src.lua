@@ -72,7 +72,14 @@ local Library = {
 			WeakText = Color3.fromHSV(0, 0, 172/255)
 		},
 		Vaporwave = {},
-		OperaGX = {},
+		OperaGX = {
+			Main = Color3.fromRGB(46, 44, 44),
+			Secondary = Color3.fromRGB(32, 32, 32),
+			Tertiary = Color3.fromRGB(194, 0, 0),
+
+			StrongText = Color3.fromHSV(0, 0, 1),        
+			WeakText = Color3.fromHSV(0, 0, 172/255)
+		},
 		VisualStudio = {}
 	},
 	ColorPickerStyles = {
